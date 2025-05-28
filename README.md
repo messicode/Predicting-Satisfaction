@@ -6,7 +6,7 @@ Our objective is to classify a passenger’s satisfaction while flying based on 
 ## Dataset:
 We would be using a Kaggle Dataset of Airline Passenger Satisfaction.
 This dataset is a customer satisfaction survey with over 129800 responses.
-The dataset contains 129800 rows and 24 columns.
+The dataset contains 130,000 rows and 25 columns.
 The data is clean with no missing values.
 The responses of the customers are rated on the scale of 1 to 5. 5 being the highest and 1 being the lowest.
 
