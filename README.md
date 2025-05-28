@@ -3,6 +3,13 @@
 ## Problem Statement:
 Our objective is to classify a passenger’s satisfaction while flying based on factors like seat comfort, inflight entertainment, food and drink and many more present in our data. This would help us predict the essential features that an airline should prioritize to maximize customer satisfaction.
 
+* End‑to‑end ML workflow (clean → encode → scale → train → evaluate → deploy).
+* Jupyter notebooks for EDA & model tuning, Python modules for training scripts.
+* Exported Keras model to ONNX; demo FastAPI endpoint returns predictions in 8 ms.
+* “Why it matters for AD/ADAS” section – mapping satisfaction factors to real‑time
+  in‑cabin comfort decisions (e.g., adaptive media or connectivity recommendations).
+
+
 ## Dataset:
 We would be using a Kaggle Dataset of Airline Passenger Satisfaction.
 This dataset is a customer satisfaction survey with over 130,000 responses.
